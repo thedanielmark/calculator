@@ -1,4 +1,4 @@
-# assign_sexy
+# Calculator
 
 A new Flutter application.
 
